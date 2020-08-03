@@ -1,5 +1,4 @@
 # spring-security-demo
-demo version of Spring Security via Maven
 
 Example usage of Spring Security
 
